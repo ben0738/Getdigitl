@@ -1,2 +1,2 @@
 # Getdigitl
-Get Digitl home
+Get Digitl home 
